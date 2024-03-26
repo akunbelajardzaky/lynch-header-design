@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import Route1 from '../views/Route1.jsx'
-import Route2 from '../views/route2.jsx'
+import Route2 from '../views/Route2.jsx'
 import Route3 from '../views/Route3.jsx'
 import Route4 from '../views/Route4.jsx'
 import Route5 from '../views/Route5.jsx'
